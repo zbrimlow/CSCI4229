@@ -1,0 +1,16 @@
+Lorenz program controls:
+__________________________________
+esc || exit
+0   || reset view window
+-   || zoom out (increase w value)
++   || zoom in (decrease w value)
+s   || decrease s value
+S   || increase s value
+b   || decrease b value
+B   || increase b value
+r   || decrease r value
+R   || increase r value
+__________________________________
+
+Arrow keys to rotate view angle
+__________________________________
